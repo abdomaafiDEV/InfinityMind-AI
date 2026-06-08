@@ -4,4 +4,4 @@
    ```bash
 git clone https://github.com/abdomaafiDEV/InfinityMind-AI
 ```
-after search the file .apk and send it into a android phone for download it
+after go to .build-outputs folder  and send it into a android phone for download it
